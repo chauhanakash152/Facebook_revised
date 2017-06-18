@@ -5,7 +5,6 @@
 }*/
 footer {
   /*background-color: rgba(0,0,0,0.87);*/
-  position: absolute;
   height: 30px;
   margin-top: 16px;
 
@@ -27,19 +26,14 @@ footer {
 }
 #header {
   background-color: #4267b2;
-  height: 15px;
+  height: 41px;
   color: white;
 }
 #header .white-text {
   color: white ;
 }
-img {
-  height: 24px;
-  width: 24px;
-  margin-top: 13px;
-}
 #header ul .glyphicon {
-  font-size: 15px;
+  font-size: 20px;
   /*color: orange;*/
 }
 .list-heading{
@@ -68,4 +62,9 @@ img {
 }
 .media-body{
   border-bottom: 1px solid gray;
+}
+#header-img {
+  height: 24px;
+  width: 24px;
+  margin-top: 13px;
 }
